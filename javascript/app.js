@@ -1,4 +1,3 @@
-// JS file for HOMEWORK #5 
 
 $(document).ready(function() {
     // when the page is loaded first, the timer, questions and summary must be hidden.
