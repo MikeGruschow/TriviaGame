@@ -1,26 +1,43 @@
+/* CSS file for Homework #5 */
+
+
 body {
-	background-image: url("http://i.imgur.com/1ONpJUR.jpg");
-	background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
-    margin-left: 35px;
+    background-image: url("images/background.jpg");
+    color: white;
+    text-align: left;
+    font-family:'Righteous', cursive;
 }
 
-#wrapper {
-	background-color: white;
-    margin-right: 55%;
-    padding-left: 3%;
-    padding-top: 2px;
-    padding-right: 2px;
-    padding-bottom: 10px;
-    margin-top: 5%;
-    border-style: solid;
+.cover-heading{
+    margin-top: 40px;
+    font-size: 80px;
 }
 
-#allQuestions {
-    display:none;
+#game-start{
+    margin-top: 70px;
+    font-size: 40px;
 }
 
-#answers {
-    display:none;
+#countdown {
+    font-size: 26px;
+    color:rgb(201, 12, 12);
 }
+
+#game-done {
+    font-size: 40px;
+}
+
+.lead2 {
+    font-size: 30px;
+    color: goldenrod;
+}
+
+.quest {
+    font-size: 26px;
+    color: wheat;
+}
+
+.text-mysize {
+    font-size: 20px;
+}
+ 
