@@ -2,8 +2,8 @@
 
 
 body {
-    background-image: url("images/background.jpg");
-    color: white;
+    background-image: url(/Users/mike/TriviaGame/background.jpg);
+    color:white;
     text-align: left;
     font-family:'Righteous', cursive;
 }
